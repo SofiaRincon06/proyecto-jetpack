@@ -1,10 +1,7 @@
 # proyecto-jetpack
 se realizo un instructivo sobre Jetpack Compose con un paso a paso a continuacion se mostrare el resultado del codigo funcional:
 
-en el primer punto realizamos un texto, al lado derecho vemos e resultado, del "Text" 
-
-![image](https://github.com/SofiaRincon06/proyecto-jetpack/assets/127985350/7edf39a0-0b3c-43a3-8774-8f7e0ce9f1fa) 
-
+![image](https://github.com/SofiaRincon06/proyecto-jetpack/assets/127985350/7edf39a0-0b3c-43a3-8774-8f7e0ce9f1fa)
 ![image](https://github.com/SofiaRincon06/proyecto-jetpack/assets/127985350/b9f92413-0948-4547-a671-f6cccc4a7c4f)
 ![image](https://github.com/SofiaRincon06/proyecto-jetpack/assets/127985350/9b974129-ed83-44b6-b0dd-ad46b08df277)
 ![image](https://github.com/SofiaRincon06/proyecto-jetpack/assets/127985350/240232c6-2571-47ae-922e-4a746055ba4e)
